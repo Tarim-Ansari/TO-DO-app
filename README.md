@@ -1,16 +1,18 @@
-# todo_t
+# Flutter TODO App 📝
 
-A new Flutter project.
+This is a minimal and interactive TODO application built using Flutter.  
+It features a clean UI, checkbox functionality to mark tasks as complete, and responsive layout design.
 
-## Getting Started
+## ✨ Features
+- Add, view, and mark tasks as completed
+- Smooth UI transitions
+- Purple-themed modern card layout
+- Built with Flutter for cross-platform support
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
+Clone the repo and run it using Android Studio or VS Code:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+flutter pub get
+flutter run
